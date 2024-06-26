@@ -1,0 +1,22 @@
+Stock: A stock is a part ownership of a company, you buy their stocks, showing your interest in them and using the
+money they progress further giving you returns in either the form of dividends or capital gains.
+
+Stocks are traded on stock exchanges such as the NSE or BSE or NASDAQ
+
+Market Order: This is an order to buy or sell the stock immediately at the current market price.
+Limit Order: This is an order to buy or sell the stock at a specific price or better when the stock hits that price
+in the future.
+
+Bid-Ask Spread: This is the difference between the highest price a buyer is willing to pay to buy a particular stock
+and the lowest price at which one is willing to sell the stock. This can give us signals about the liquidity and
+transaction costs.
+
+The price of a stock means the latest price at which the stock has been traded
+There is usually a link between the company's working and the stock price, if the company does well then it gives
+a positive emotion amongst the people and people tend to buy stocks hence increasing the price per share of the
+company.
+
+A symbol is like an abbreviation to help recognize stocks
+Apple- "AAPL"
+
+Dividends: They are parts of profit given by the company to the shareholders in cash or more shares 
