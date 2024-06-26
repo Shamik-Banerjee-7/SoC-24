@@ -19,4 +19,4 @@ company.
 A symbol is like an abbreviation to help recognize stocks
 Apple- "AAPL"
 
-Dividends: They are parts of profit given by the company to the shareholders in cash or more shares 
+Dividends: They are parts of profit given by the company to the shareholders in cash or more shares.
